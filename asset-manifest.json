@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/film-haven/static/css/main.ae74d4b2.css",
+    "main.js": "/film-haven/static/js/main.f1200089.js",
+    "static/media/movgiflogo.gif": "/film-haven/static/media/movgiflogo.219e01537414bf1156e7.gif",
+    "static/media/slide02.jpg": "/film-haven/static/media/slide02.6bf5c2b8778a74746d08.jpg",
+    "static/media/fb.png": "/film-haven/static/media/fb.c8a1c55ab128c300935f.png",
+    "static/media/in.png": "/film-haven/static/media/in.516d59c2dac6c0471ce7.png",
+    "static/media/git.png": "/film-haven/static/media/git.dc0da2116834af21bba7.png",
+    "index.html": "/film-haven/index.html",
+    "main.ae74d4b2.css.map": "/film-haven/static/css/main.ae74d4b2.css.map",
+    "main.f1200089.js.map": "/film-haven/static/js/main.f1200089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae74d4b2.css",
+    "static/js/main.f1200089.js"
+  ]
+}
