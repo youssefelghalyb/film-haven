@@ -1,0 +1,13 @@
+.Head{
+    text-align: center;
+    margin-top: 30px;
+    color: #8893DA;
+    margin-bottom: 30px;
+}
+
+
+.MovieList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}

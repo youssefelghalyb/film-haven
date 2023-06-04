@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+/* Trend Mov  */
+
+
+.trend h1 {
+    color: #8893DA;
+
+    margin-bottom: 10px;
+}
+
+
+
+.trendMov  img{
+    margin: 10px;
+    width: 224px;
+    height: 342px;
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.trendMov  img:hover {
+    transform: scale(1.1);
+}
+
+/* Trend Mov  */
+
+
+
+
+
+

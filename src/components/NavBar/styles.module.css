@@ -1,0 +1,40 @@
+
+/*Start Nav*/
+
+.button {
+    border: 1px solid #95a1f1;
+    color: #95a1f1;
+    padding: 4px 15px;
+    border-radius: 9px;
+    background: transparent;
+    transition: 0.4s;
+}
+
+.button:hover{
+    background-color: #95a1f1;
+    color: #fff;
+}
+
+.link{
+    padding: 10px;
+    text-decoration: none;
+    color: #b3afaf;
+}
+
+
+.link:hover{
+    color:#95a1f1 !important
+}
+
+
+.focusColor {
+    margin-right: 15px;
+}
+
+.focusColor:focus{
+    border-color:#95a1f1 !important;
+    box-shadow: 0 0 0 0.25rem rgba(149,161,241 , 0.2 ) !important ; 
+}
+/*End Nav*/
+
+

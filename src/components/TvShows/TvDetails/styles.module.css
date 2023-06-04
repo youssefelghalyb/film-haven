@@ -1,0 +1,129 @@
+.MainDetailsCont{
+    color: rgb(237, 246, 253) !important;
+    margin-top: 30px;
+}
+
+.tvDetails{
+    display: flex;
+    flex-wrap: no-wrap;
+}
+
+.tvDetails img{
+    border-radius: 15px;
+    margin-right: 118px;
+}
+
+.tvDetails .movContent{
+    margin-left: 100px; 
+    margin-top: 10px;
+} 
+
+.tvDetails .TvContent h1{
+    margin-bottom: 15px;
+    color:rgb(237, 246, 253);
+
+}
+
+.tvName{
+
+    color: #8893DA;
+}
+.tvDetails .TvContent hr{
+   color: #8893DA;
+}
+
+.tvDetails .TvContent h5{
+    padding: 10px 0;
+    font-style: italic;
+    font-weight: 400;
+
+}
+
+.tvData{
+    display: flex;
+    justify-content: space-between;
+}
+.tvData div:last-child
+{
+    padding: 0 77px;
+    border-left: 1px solid;
+}
+
+.tvData div:first-child
+{
+    padding-right:77px;
+
+}
+
+.tvData div h5{
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.tvData div h5 span{
+    font-weight: 500;
+    color: #8893DA;
+}
+
+
+.Discription{
+    margin-top: 30px;
+}
+
+.Discription p{
+    margin: 20px 0 ;
+}
+
+
+
+.buttons{
+    text-align: center;
+
+}
+
+.button {
+    border: 1px solid #95a1f1;
+    color: #95a1f1;
+    padding: 4px 15px;
+    border-radius: 9px;
+    background: transparent;
+    transition: 0.4s;
+    margin: 0 30px;
+
+}
+
+.button:hover{
+    background-color: #95a1f1;
+    color: #fff;
+}
+
+.button a{
+        all: unset;
+}
+
+
+
+@media only screen and (max-width:700px){
+    .tvDetails .TvContent{
+        margin-left: 0px; 
+    } 
+
+    .tvDetails{
+     justify-content: center;
+     flex-direction: column;
+     
+    }
+    .tvData{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .tvDetails img{
+        align-self: center;
+    }
+    .tvData div h5{
+        font-size: 15px;
+    }
+
+
+}
